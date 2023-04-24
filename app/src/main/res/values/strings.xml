@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="ricky_and_morty_splash">Ricky And Morty</string>
+    <string name="status">Status:</string>
+    <string name="species">Species:</string>
+    <string name="gender">Gender:</string>
+    <string name="origin">Origin:</string>
+    <string name="location">Location:</string>
+    <string name="episodes">Episodes:</string>
+    <string name="created_at">Created at (in API):</string>
+</resources>
