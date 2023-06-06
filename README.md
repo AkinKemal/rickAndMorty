@@ -1,2 +1,2 @@
-# rickAndMorty
-Rick and Morty App 
+# rickAndMortyWithMobileApplication
+Rick and Morty With Mobile Application
